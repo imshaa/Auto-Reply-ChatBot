@@ -4,8 +4,8 @@ import pyperclip
 
 def automate_text_selection_and_copy():
     
-    pyautogui.click(520, 170)  # Adjust coordinates if needed
-    time.sleep(1)  # Wait for user to manually select the text
+    pyautogui.click(520, 170) 
+    time.sleep(1)  
 
 
     
